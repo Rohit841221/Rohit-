@@ -17,8 +17,6 @@
 📫 **How to reach me:** Connect with me through LinkedIn or Email
 
 ⚡ **Fun fact:** I love building practical AI solutions and learning new technologies 🚀
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohit-kumar-61b00a27a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kr6089487@gmail.com) 
